@@ -1,0 +1,351 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "Garmin Forerunner 245",
+      "price": "399.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/5/637532091680200208_forerunner-245-xam-dd.jpg",
+      "categoriesId": 1
+    },
+    {
+      "id": 62,
+      "name": "X-Star Premium Drone With 4K Camera",
+      "price": "$450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959679/image/pr-03_iy6ja3.jpg",
+      "categoriesId": 2
+    },
+    {
+      "id": 91,
+      "name": " Fujifilm X-E3 (Silver, Body Only)",
+      "price": "400.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.vjshop.vn/may-anh/mirrorless/fujifilm/fujifilm-x-e3-1/fujifilm-x-e3-silver-1-150x150.jpg",
+      "categoriesId": "3"
+    },
+    {
+      "id": 61,
+      "name": "On-Ear Wireless NXTG",
+      "price": "225.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959679/image/pr-07_zzxaez.jpg",
+      "categoriesId": 4
+    },
+    {
+      "id": 2,
+      "name": "Wireless Multiroom Speaker",
+      "price": "250.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959680/image/pr-09_wacaqy.jpg",
+      "categoriesId": 2
+    },
+    {
+      "id": 64,
+      "name": "Smart Watches 4",
+      "price": "320.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959680/image/pr-11_n77g5r.jpg",
+      "categoriesId": 1
+    },
+    {
+      "id": 68,
+      "name": "Camera TZ85 Optical 30 White DMC-TZ85",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959680/image/pr-15_eptojg.jpg",
+      "categoriesId": 3
+    },
+    {
+      "id": 48,
+      "name": "X70 Digital Camera White",
+      "price": "350.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959680/image/pr-14_blm6cp.jpg",
+      "categoriesId": 4
+    },
+    {
+      "id": 10,
+      "name": "Xiaomi Mi Band 5",
+      "price": "99.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/7/20/637308321942594932_xiaomi-mi-band-5-den-dd.png",
+      "categoriesId": 1
+    },
+    {
+      "id": 94,
+      "name": "Xiaomi Mi Band 6",
+      "price": "100.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/14/637539958832788998_xiaomi-mi-band-6-dd.jpg",
+      "categoriesId": 1
+    },
+    {
+      "id": 111,
+      "name": "Samsung Galaxy Watch 4 40mm",
+      "price": "399.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/26/637655667503189019_samsung-galaxy-watch-4-hong-small-dd.jpg",
+      "categoriesId": "1"
+    },
+    {
+      "id": 621,
+      "name": "Xiaomi Mi Magnetic 1080P",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/3/10/637509693769357503_xiaomi-camera-an-ninh-mi-magnetic-1080p-dd.jpg",
+      "categoriesId": "2"
+    },
+    {
+      "id": 911,
+      "name": "Digital 20.1 4K Video",
+      "price": "400.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959679/image/pr-06_t1yh2s.jpg",
+      "categoriesId": 3
+    },
+    {
+      "id": 611,
+      "name": "MDR-Z7M2",
+      "price": "225.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://www.sony.com.vn/image/254eaf56b1612d346c0e4d5982712b08?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9",
+      "categoriesId": "4"
+    },
+    {
+      "id": 21,
+      "name": "Xiaomi Mi Home 360° 2K",
+      "price": "250.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/3/26/637523557870684937_xiaomi-camera-an-ninh-mi-home-360-do-2k-dd.jpg",
+      "categoriesId": "2"
+    },
+    {
+      "id": 641,
+      "name": "Apple Watch SE GPS 40mm",
+      "price": "320.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/9/29/637369907197319165_Apple%C2%A0Watch%20SE%20GPS%C2%A040mm%20dai%20dien.png",
+      "categoriesId": "1"
+    },
+    {
+      "id": 681,
+      "name": "Canon EOS-1D X Mark III",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.vjshop.vn/may-anh/dslr/canon/canon-eos-1d-x-mark-iii/canon-eos-1dx-iii-9-150x150.jpg",
+      "categoriesId": "3"
+    },
+    {
+      "id": 481,
+      "name": "WH-1000XM4",
+      "price": "350.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://www.sony.com.vn/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&hei=330&bgcolor=F1F5F9&bgc=F1F5F9",
+      "categoriesId": "4"
+    },
+    {
+      "id": 101,
+      "name": "Samsung Galaxy Watch 4 Classic 42mm ",
+      "price": "99.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/25/637654844132831247_samsung-galaxy-watch-4-classic-small-bac-dd.jpg",
+      "categoriesId": "1"
+    },
+    {
+      "id": 941,
+      "name": "Garmin Forerunner 245 ",
+      "price": "100.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/4/5/637532091680200208_forerunner-245-xam-dd.jpg",
+      "categoriesId": "1"
+    },
+    {
+      "id": 6211,
+      "name": "Gopro Hero 9 Black_CHDHX-901-RW",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/16/637384558163131602_gopro-hero-9-black-dd.png",
+      "categoriesId": "2"
+    },
+    {
+      "id": 6212,
+      "name": "Webcam 1080p Asus Rog Eye S",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.tgdd.vn/Products/Images/4728/247730/webcam-1080p-asus-rog-eye-s-den-avatar-600x600.jpg",
+      "categoriesId": "2"
+    },
+    {
+      "id": 6213,
+      "name": "Webcam 1440p Rapoo C280",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.tgdd.vn/Products/Images/4728/242329/webcam-1440p-rapoo-c280-ava-600x600.jpg",
+      "categoriesId": "2"
+    },
+    {
+      "id": 6214,
+      "name": "Xiaomi Mi Home Magnetic Moun",
+      "price": "450.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.tgdd.vn/Products/Images/4728/232273/ip-1080p-xiaomi-mi-home-magnetic-mount-qdj4065gl-ava-600x600.jpg",
+      "categoriesId": "2"
+    },
+    {
+      "id": 9112,
+      "name": "Nikon Z5 +Lens 24-200mm f/4-6.3",
+      "price": "400.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.vjshop.vn/may-anh/mirrorless/nikon/nikon-z5/nikon-z5-with-lens-24-200-2-150x150.jpg",
+      "categoriesId": "3"
+    },
+    {
+      "id": 9113,
+      "name": "Canon EOS R (Body Only)",
+      "price": "400.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.vjshop.vn/may-anh/mirrorless/canon/canon-eos-r/canon-eos-r-8-150x150.jpg",
+      "categoriesId": "3"
+    },
+    {
+      "id": 9114,
+      "name": "Sony Alpha A7C (Black)",
+      "price": "400.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-alpha-a7c/sony-a7c-black-with-28-60mm-5-150x150.jpg",
+      "categoriesId": "3"
+    },
+    {
+      "id": 9115,
+      "name": "Sony Alpha A7S III",
+      "price": "400.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-a7siii/sony-a7s-mark-iii-2-150x150.jpg",
+      "categoriesId": "3"
+    },
+    {
+      "id": 4811,
+      "name": "AirPods Max Apple MGYH3",
+      "price": "350.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.tgdd.vn/Products/Images/54/236331/bluetooth-airpods-max-apple-1-2-org.jpg",
+      "categoriesId": "4"
+    },
+    {
+      "id": 4812,
+      "name": "Mozard IP-360 ",
+      "price": "350.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://cdn.tgdd.vn/Products/Images/54/243791/chup-tai-mozard-ip-360-hong-3-org.jpg",
+      "categoriesId": "4"
+    },
+    {
+      "id": 4813,
+      "name": "AirPods 2",
+      "price": "350.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://fptshop.com.vn/Uploads/Originals/2019/5/3/636924936322471575_pk-00564308-dd.png",
+      "categoriesId": "4"
+    },
+    {
+      "id": 4815,
+      "name": "X70 Digital Camera White",
+      "price": "350.00",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "https://res.cloudinary.com/khiempham2k1/image/upload/v1633959680/image/pr-14_blm6cp.jpg",
+      "categoriesId": 4
+    },
+    {
+      "id": 95,
+      "name": "Sardine in Tomato Sauce 1.2Kg",
+      "price": "123",
+      "desc": "Go koller this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.",
+      "img": "data:image/jpeg;base64,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",
+      "categoriesId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smart Watch"
+    },
+    {
+      "id": 2,
+      "name": "Camera"
+    },
+    {
+      "id": 3,
+      "name": "Laptop"
+    },
+    {
+      "id": 4,
+      "name": "Digital"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$1hhtORn.NG5GBomLQ99bReGDkfAdj7k.BbNpx6YqtH5CPdgsRx/dm",
+      "firstname": "admin",
+      "lastname": 1,
+      "id": 1,
+      "role": 1
+    },
+    {
+      "email": "khiempvph11815@fpt.edu.vn",
+      "password": "$2a$10$I7MUCUaNdxu9pvq5iRuwcOWaTRo8/PGy8oMKM2tMPUTrNtW//Wg7u",
+      "firstname": "phạm",
+      "lastname": "khiêm",
+      "role": 2,
+      "id": 2
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "title": "Nice Product",
+      "content": "Product is good!",
+      "createdAt": "13-10-2021",
+      "id": 1,
+      "productId": 61
+    },
+    {
+      "name": "Khiêm Phạm",
+      "email": "khiem@gmail.com",
+      "title": "Product Ok",
+      "content": "OK",
+      "createdAt": "13-10-2021",
+      "id": 2,
+      "productId": 11
+    },
+    {
+      "name": "Phạm Văn Khiêm",
+      "email": "khiempvph11815@fpt.edu.vn",
+      "title": "f",
+      "content": "OK",
+      "productId": "11",
+      "createdAt": "13-10-2021",
+      "id": 3
+    },
+    {
+      "name": "phạm văn khiêm",
+      "email": "phamvankhiem10900@gmail.com",
+      "title": "Product Ok",
+      "content": "Product is good!",
+      "productId": "61",
+      "createdAt": "13-10-2021",
+      "id": 4
+    },
+    {
+      "name": "phạm văn khiêm",
+      "email": "phamvankhiem10900@gmail.com",
+      "title": "nice",
+      "content": "Nice Product",
+      "productId": "62",
+      "createdAt": "16-10-2021",
+      "id": 5
+    }
+  ]
+}

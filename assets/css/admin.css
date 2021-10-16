@@ -1,0 +1,123 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+html,
+body {
+    box-sizing: border-box;
+    margin: 0;
+    top: 0;
+    left: 0;
+	font-family: 'Montserrat', sans-serif;
+
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+
+.form{
+    max-width: 1440px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-title{
+    font-size: 32px;
+    margin-top: 80px;
+}
+
+.position-sticky{
+    height: 100vh;
+}
+
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 3px;
+}
+.single-product{
+    margin-top: 80px;
+}
+.single-product .column img{
+    padding: 0;
+}
+.single-product .column{
+    padding: 20px;
+}
+.single-product h4{
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+.single-product select{
+    display: block;
+    padding: 10px;
+    margin-top: 20px;
+}
+.single-product input{
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    margin-right: 10px;
+    border: 1px solid #555;
+}
+.single-product .fas{
+    color: #ff523b;
+    margin-left: 10px;
+}
+.rowing{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.column-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.column-2 img{
+    max-width: 100%;
+    padding: 50px 0;
+}
+.column-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+}
+.column-2 .btn{
+    display: inline-block;
+    background: #ff523b;
+    color: #555;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+}
+.btn:hover{
+    background: #563434;
+}
+select{
+    border: 1px solid #555;
+    padding: 5px;
+}
+select:focus{
+    outline: none;
+}
+
+.td-desc{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.5;
+    max-width: 400px;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    --bs-table-accent-bg: inherit !important;
+}
